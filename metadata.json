@@ -1,0 +1,6 @@
+{
+  "name": "Cronômetro Inércia & Objetivo",
+  "description": "Cronômetro duplo minimalista para vencer a inércia e cumprir objetivos com precisão visual e histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
